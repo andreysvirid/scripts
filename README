@@ -1,0 +1,7 @@
+### kubectl kubeplugin
+
+Плагін для kubectl, який показує статистику CPU та памʼяті для pod/node у кластері.
+
+#### Використання:
+```bash
+kubectl kubeplugin <namespace> <resource_type>
